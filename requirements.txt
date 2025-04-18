@@ -1,0 +1,4 @@
+Flask>=2.0
+python-telegram-bot>=20.0 # Make sure to use a version supporting the async Application
+requests>=2.20
+python-dotenv>=0.15 # For loading .env file locally (optional but good practice)
